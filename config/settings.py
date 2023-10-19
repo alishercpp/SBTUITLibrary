@@ -7,7 +7,7 @@ SECRET_KEY = 'django-insecure-e(zbu9zv7tsf*2(yy$2&nb9t+^kftm*gw4dwmm7s(8ujr*p@2(
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 
